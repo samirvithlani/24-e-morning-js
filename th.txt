@@ -1,0 +1,52 @@
+JAVA SCRIPT:
+progamming language: c,cpp,java
+scripting language: python,js,shell
+scripting language is subset of programming language
+--------------------------------------------------
+
+statically typed language: c,cpp,java : int x,float y,......
+dynamically typed language: python,js,shell :
+we dont need to specify the data type of variable
+//10 --->int
+//"" --->string
+
+--------------------------------------------------
+
+server side:c,cpp,java,python
+code run: output server | console
+client side: js,
+code run: output browser
+
+:amazon : -->login press --> 
+:image : --> zoom : 
+
+
+-->web pages: HTML -->
+-----------------------------------------------------
+
+turbo c,
+gcc compiler,
+
+compiler:
+javascript compiler : babel
+browser will have js engine
+
+
+java script was developed by netscape
+
+first engine of java script was spider monkey firefox
+
+v8 engine : google chrome
+nitro engine : safari
+chk engine : microsoft edge
+
+
+ways to write js:
+1. inline js
+2. internal js
+3. external js : .js file
+
+//to declare variable in js we have 3 keywords
+1) var
+2) let
+3) const
