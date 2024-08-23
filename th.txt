@@ -50,3 +50,39 @@ ways to write js:
 1) var
 2) let
 3) const
+
+--------------------------------------------------
+scope:
+var is having global scope
+let is having block scope
+const is having block scope
+
+{
+    block..
+}
+.js it self is a block
+-----------------
+operators:
+operators are symbols that are used to perform operations on operands
+
+1)unary operator: it requires only one operand
+2)binary operator: it requires two operands
+3)ternary operator: it requires three operands
+
+1)arithmetic operators: +,-,*,/,%,++,--,**(exponentiation)
+2)assignment operators: =,+=,-=,*=,/=,%=,**=,
+3)comparison operators: ==,!=,>,<,>=,<=,===,!==,
+4)logical operators: &&,||,!,
+5)bitwise operators: &,|,^,~,<<,>>
+6)conditional operators: ?: //ternary operator
+
+
+
+
+
+
+
+
+
+
+
