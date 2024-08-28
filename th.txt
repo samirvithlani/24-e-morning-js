@@ -78,6 +78,21 @@ operators are symbols that are used to perform operations on operands
 
 
 
+decision making statments:
+if else
+switch case
+loops
+
+if(condition){
+    //block..
+    
+}else{
+
+    //else block...
+}
+
+
+
 
 
 
