@@ -92,6 +92,25 @@ if(condition){
 }
 
 
+logical operators:
+&&
+||
+!
+
+cond 1  && cond 2
+
+T       T      T
+T ----> F     F
+F **    -     F
+
+
+cond1 || cond2
+
+T    -     T
+F ---> T   T
+F ---> F   F
+
+
 
 
 
