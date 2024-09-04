@@ -110,6 +110,28 @@ T    -     T
 F ---> T   T
 F ---> F   F
 
+task:
+
+user age = 18
+
+
+type of loops:
+
+2 types of loops:
+entry controlled loop: for,while : condition is checked first
+exit controlled loop: do while : condition is checked at the end
+
+for  || while
+
+for when we know the number of iterations : sp and ep are known
+while when we dont know the number of iterations : sp and ep are not known
+
+for(initialization;condition;increment/decrement){
+    //block
+}
+
+
+
 
 
 

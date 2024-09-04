@@ -11,7 +11,7 @@ switch (choice){
             break;    
         default:
             console.log("Default case");
-            break;    
+            break    
 
 
 }
