@@ -134,6 +134,26 @@ for(initialization;condition;increment/decrement){
 
 
 
+while:
+enter opening balance: 100
+enter opening balance: 200
+enter opening balance: 9
+please try again..
+
+
+min op bal required is 10000
+only 3 attempts are allowed
+
+enter opening balance: 1200
+enter opening balance: 12000 ->coorect...
+
+console.log("welcome to bank");
+
+
+
+
+
+
 
 
 
