@@ -149,16 +149,19 @@ enter opening balance: 12000 ->coorect...
 
 console.log("welcome to bank");
 
+string:
 
+"royal" -->collection of characters
+string stores data in array:
+array stores data in index form
+index always starts from 0
 
+"royal"
+[r][o][y][a][l]
+[0][1][2][3][4]
 
+concept of mutable and immutable:
+mutable: which can be changed / modified
+immutable: which cannot be changed / modified
 
-
-
-
-
-
-
-
-
-
+in javascript strings are immutable with same reference but mutable with different reference
