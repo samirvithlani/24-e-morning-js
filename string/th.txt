@@ -1,0 +1,11 @@
+length : find length of string
+toUpperCasae : convert to uppercase
+toLowerCase : convert to lowercase
+charAt : find character at a given index eg s.charAt(0)-->r
+indexOf : find index of a given character eg s.indexOf('r')-->0
+lastIndexOf : find last index of a given character eg s.lastIndexOf('r')-->3
+includes : check if a given character is present in the string eg s.includes('r')-->true
+replace : replace a given character with another character eg s.replace('r','R')-->R\
+trim : remove white spaces from the string eg s.trim()-->royal
+trimStart : remove white spaces from the start of the string eg s.trimStart()-->royal
+trimEnd : remove white spaces from the end of the string eg s.trimEnd()-->royal
