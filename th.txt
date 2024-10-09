@@ -165,3 +165,41 @@ mutable: which can be changed / modified
 immutable: which cannot be changed / modified
 
 in javascript strings are immutable with same reference but mutable with different reference
+
+JSON: javascript object notation
+
+student data store:
+
+srollno: 101
+sname
+sage
+sfees
+....
+20...
+20 variable...
+
+object wrap:
+
+student object:{
+
+}
+
+json normalaization:
+
+user table   
+
+id
+name
+email
+password
+
+
+userDetails table:
+uid fk
+address
+phone
+city
+state
+country
+
+
