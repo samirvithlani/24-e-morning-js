@@ -202,4 +202,20 @@ city
 state
 country
 
+----------------------------------------
+array:
+array is group of elements
 
+need | use of array:
+1000 employees namme :
+e1,e2,e3,e4,e5,e6,e7,e8,e9,e10,e1000
+
+data array : index manner
+array follows homogeneous collection of elements
+
+[][][][][][][][][][][][][][][][][][]
+----------------------------------------
+10,12,13,14,15
+[10][12][13][14][15] -->index
+array index always starts from 0
+[0][1][2][3][4]
