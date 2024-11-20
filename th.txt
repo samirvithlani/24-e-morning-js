@@ -219,3 +219,54 @@ array follows homogeneous collection of elements
 [10][12][13][14][15] -->index
 array index always starts from 0
 [0][1][2][3][4]
+
+
+array :--> functions user define functions:
+
+user define functions:
+
+functions: funciton is block of code with name:
+use:
+1)code reusablity:
+    code :10 --> 20 time repete : 200 lines
+    xyz{10 line} --> 20 time --> xyz,xyz
+
+3)code optmization and maintainblity:
+    bank application:
+    account opening -->fun
+    withdraw  -->func
+    deposit..    -->func
+
+    application : line 
+    ______________________________________________________
+    hello world
+    ______________________________________________________
+    having
+    ______________________________________________________
+
+
+void -->return type
+int -->return type
+int sum()
+void main()
+
+we dont have data type in javascript
+
+funciton funName()
+{
+
+}
+
+2 type of functions
+
+pre define functions:
+user define functions:
+
+
+both will have 4 type
+1)with return type with argument | param
+1)with return type without argument | param
+1)without return type with argument | param
+1)without return type without argument | param
+
+
