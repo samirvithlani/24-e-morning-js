@@ -270,3 +270,9 @@ both will have 4 type
 1)without return type without argument | param
 
 
+arrow funciton task:
+1)take 3 numbers and return average of that
+2)take 2 numbers and return biggest number
+3)take string and check it is palindrome or not
+
+
