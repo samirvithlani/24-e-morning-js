@@ -22,3 +22,17 @@ console.log(newMarks)
 
 var sales = [100,120,230,450,700,800,1000]
 //newsales = with 10% discount
+
+var newSales = sales.map((s)=>{
+    return s - (s*0.1)
+})
+console.log(newSales)
+
+var users = ["ram","shyam","mohan","sohan","rohan"]
+//upper case
+//vat newUsers = ["RAM","SHYAM","MOHAN","SOHAN","ROHAN"]
+
+var newUsers= users.map((u)=>{
+    return u.toUpperCase()
+})
+console.log(newUsers)
