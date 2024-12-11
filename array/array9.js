@@ -38,6 +38,8 @@ var filcities2 = cities.filter((c)=>{
 console.log(filCities)
 
 
+var emails = ["ram@gmail.com","ankit@gmail","parthgmail.com","kunal@gmail.com"]
+
 
 
 
