@@ -20,6 +20,4 @@ const submitHandler =(event)=>{
         genderError.innerHTML=""
     }
 
-
-
 }
