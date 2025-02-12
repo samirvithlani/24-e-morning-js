@@ -276,3 +276,8 @@ arrow funciton task:
 3)take string and check it is palindrome or not
 
 
+------------------------------------------------
+box -> h ,w,b
+
+random color -->
+
